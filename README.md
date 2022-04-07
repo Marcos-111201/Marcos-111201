@@ -1,8 +1,9 @@
 ## Olá, eu sou o Marcos Daniel  <img align="center" alt="Marcos-C" height="30" width="40" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
 - 📚 Atualmente estou estudando Flutter e Dart
-- 💻 Estudante de Engenharia de Computação - IFCE
 - 🎓 Técnico em Informática - IFCE 
+- 💻 Estudante de Engenharia de Computação - IFCE
+- 👨‍💻 Bolsista de Teste de Software - GREat
 
 ##
   <div>
@@ -17,13 +18,14 @@
     <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Marcos-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-    <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+    <img align="center" alt="Marcos-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+    <img align="center" alt="Marcos-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </div>
 
 ##
 <!-- ## Contatos -->
   <div> 
-    <a href = "marcos.daniel05@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:marcosdaniel2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcos-daniel1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <!--   ![Snake animation](https://github.com/Marcos-111201/Marcos-111201/blob/output/github-contribution-grid-snake.svg) -->
   </div>
