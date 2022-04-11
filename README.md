@@ -1,9 +1,9 @@
 ## Olá, eu sou o Marcos Daniel  <img align="center" alt="Marcos-C" height="30" width="40" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
 
-- 📚 Atualmente estou estudando Flutter e Dart
 - 🎓 Técnico em Informática - IFCE 
 - 💻 Estudante de Engenharia de Computação - IFCE
 - 👨‍💻 Bolsista de Teste de Software - GREat
+- 📚 Atualmente estou estudando Flutter 
 
 ##
   <div>
