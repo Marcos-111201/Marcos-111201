@@ -3,7 +3,7 @@
 <!-- - 📚 Atualmente estou estudando Flutter  -->
 - 🎓 Técnico em Informática - IFCE 
 - 💻 Estudante de Engenharia de Computação - IFCE
-- 👨‍💻 Bolsista de Teste de Software - GREat
+- 👨‍💻 Tester de Software
 
 ##
   <div>
